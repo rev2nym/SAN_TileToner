@@ -1,0 +1,13 @@
+.vscode/*
+index.html
+package.json
+Game.rpgproject
+img/*
+audio/*
+# data/*
+fonts/*
+icon/*
+movies/*
+save/*
+js/*
+!js/plugins/
