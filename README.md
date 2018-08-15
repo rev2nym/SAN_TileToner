@@ -8,8 +8,8 @@ RGBとアルファ値の設定が可能です。
 
 ## 使い方
 次のリンク先のファイルを保存してプラグインとして適用してください。
-https://raw.githubusercontent.com/rev2nym/SAN_TileToner/master/js/plugins/SAN_TileToner.js   
 詳細はプラグイン内のヘルプとサンプルプロジェクトを参考にしてください。   
+https://raw.githubusercontent.com/rev2nym/SAN_TileToner/master/js/plugins/SAN_TileToner.js   
 
 ## サンプルプロジェクト
 次のダウンロードリンクからzipファイルをダウンロードして展開後に
@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/rev2nym/SAN_TileToner/master/js/plugins/SAN_Ti
 https://github.com/rev2nym/SAN_TileToner/archive/master.zip
 
 ## デモ
-- 画像
+- 画像   
 ![](./demo/TileToner_1_1.png)   
 
 - Twitterリンク（動画）  
